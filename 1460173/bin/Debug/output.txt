@@ -1,0 +1,5 @@
+4
+1461000    Nguyễn Văn A 227 Nguyễn Văn Cừ, Q5  10
+1461001    Huỳnh Thị B 235 Trần Hưng Đạo, Q5  7.5
+1461005    Lê Văn C 135 Trần Hưng Đạo, Q1  8
+1460173    Trịnh Minh Cường jdiajid  10

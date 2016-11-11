@@ -1,0 +1,10 @@
+C:\Users\Mark\Desktop\1460173\1460173\bin\Debug\1460173.exe.config
+C:\Users\Mark\Desktop\1460173\1460173\bin\Debug\1460173.exe
+C:\Users\Mark\Desktop\1460173\1460173\bin\Debug\1460173.pdb
+C:\Users\Mark\Desktop\1460173\1460173\bin\Debug\1460173.xml
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\_1460173.Form1.resources
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\_1460173.Resources.resources
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\1460173.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\1460173.exe
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\1460173.xml
+C:\Users\Mark\Desktop\1460173\1460173\obj\Debug\1460173.pdb
